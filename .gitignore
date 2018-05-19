@@ -1,0 +1,12 @@
+/*
+
+!/Assets
+!/ProjectSettings
+!.gitignore
+!SnapScroll.unitypackage
+!LICENSE
+!README.md
+
+.DS_Store
+*.DS_Store
+*~
